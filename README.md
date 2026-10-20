@@ -1,2 +1,2 @@
 # Obtregen
-Obtregen Code Encrypter/Decrypter
+Obtregen Python Encrypter/Decrypter
